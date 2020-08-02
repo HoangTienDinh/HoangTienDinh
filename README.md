@@ -4,8 +4,6 @@
 - 🔭 I’m currently working on a [React/Firebase Tutorial](https://github.com/HoangTienDinh/google-keep-react-firebase)!
 - 🌱 I’m currently learning React, Typescript, Google Cloud Platform, and Firebase! 
 - 👯 I’m looking to collaborate with other developers!
-<br />
-<br />
 
 ---
 
@@ -44,6 +42,9 @@
 [<img align="left" alt="Material-UI" width="40px" src="https://material-ui.com/static/logo.png" />][website]
 
 
+<br />
+<br />
+<br />
 <br />
 <br />
 
