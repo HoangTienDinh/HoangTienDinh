@@ -27,11 +27,20 @@
 
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
 
-[<img align="left" alt="Git" width="26px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" />][website]
+[<img align="left" alt="Firebase" width="26px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" />][website]
 
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
+
+[<img align="left" alt="Ruby" width="26px" src="https://www.ruby-lang.org/images/header-ruby-logo.png" />][website]
+
+[<img align="left" alt="Ruby on Rails" width="26px" src="https://www.fullstacklabs.co/img/referral/Technologies/tech_rubyonrails.png" />][website]
+
+[<img align="left" alt="Bootstrap 5" width="26px" src="https://pluspng.com/img-png/bootstrap-logo-vector-png-bootstrap-logo-512.jpg" />][website]
+
+[<img align="left" alt="Material-UI" width="26px" src="https://material-ui.com/static/logo.png" />][website]
+
 
 <br />
 <br />
