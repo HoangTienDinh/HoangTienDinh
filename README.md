@@ -2,8 +2,8 @@
 
 ## I'm a Full Stack Developer, Photographer, Outdoor Enthusiast, and a Baker!
 - 🔭 I’m currently working on a [React/Firebase Tutorial](https://github.com/HoangTienDinh/google-keep-react-firebase)!
-- 🌱 I’m currently learning React, Typescript, Google Cloud Platform, and Firebase! 
-- 👯 I’m looking to collaborate with other developers!
+- 🌱 I’m currently working with React, Typescript, Google Cloud Platform, and Firebase! 
+- 👯 I’m looking to collaborate with other developers (open source/hackathons!
 
 ---
 
