@@ -37,7 +37,7 @@
 
 ---
 
-<img align="left" alt="Hoang Tien Dinh' Github Stats" src="https://github-readme-stats.vercel.app/api?username=HoangTienDinh&show_icons=true&hide_border=true" />
+<img align="left" alt="Hoang Tien Dinh' Github Stats" src="https://github-readme-stats.vercel.app/api?username=HoangTienDinh&show_icons=true&hide_border=true&theme=synthwave" />
 
 [website]: http://hoangtiendinh.com/
 [instagram]: https://www.instagram.com/hohohoang/
