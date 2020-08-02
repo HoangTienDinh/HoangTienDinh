@@ -50,11 +50,11 @@
 
 ---
 
-### Connect with me:
+### Let's Connect:
 
-[<img align="left" alt="hoangtiendinh.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Hoang Tien Dinh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Hoang Tien Dinh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="hoangtiendinh.com/" width="22px" src="https://image.flaticon.com/icons/svg/814/814513.svg" />][website]
+[<img align="left" alt="Hoang Tien Dinh | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/1409/1409945.svg" />][linkedin]
+[<img align="left" alt="Hoang Tien Dinh | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
 
 <br />
 <br />
