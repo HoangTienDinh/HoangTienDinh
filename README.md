@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on a [React/Firebase Tutorial](https://github.com/HoangTienDinh/google-keep-react-firebase)!
 - 🌱 I’m currently learning React, Typescript, Google Cloud Platform, and Firebase! 
 - 👯 I’m looking to collaborate with other developers!
+<br />
+<br />
 
 ---
 
@@ -44,6 +46,9 @@
 
 <br />
 <br />
+<br />
+<br />
+<br />
 
 ---
 
@@ -57,6 +62,7 @@
 <br />
 
 ---
+
 <img align="left" alt="Hoang Tien Dinh' Github Stats" src="https://github-readme-stats.vercel.app/api?username=HoangTienDinh&show_icons=true&hide_border=true&theme=synthwave" />
 
 [website]: http://hoangtiendinh.com/
