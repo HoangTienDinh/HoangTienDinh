@@ -41,6 +41,7 @@
 
 [<img align="left" alt="Material-UI" width="40px" src="https://material-ui.com/static/logo.png" />][website]
 
+[<img align="left" alt="Tailwind" width="40px" src="https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/583fc66e370973324b281898abe1753d" />][website]
 
 <br />
 <br />
