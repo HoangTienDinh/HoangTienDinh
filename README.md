@@ -39,9 +39,9 @@
 
 [<img align="left" alt="Bootstrap 5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][website]
 
-[<img align="left" alt="Material-UI" width="40px" src="https://camo.githubusercontent.com/cf05625198fe7b6ad8a302d1ce16bc99b93ec2ac/68747470733a2f2f6d6174657269616c2d75692e636f6d2f7374617469632f6c6f676f2e737667" />][website]
+[<img align="left" alt="Material-UI" width="40px" src="https://material-ui.com/static/logo.png" />][website]
 
-[<img align="left" alt="Tailwind" width="40px" src="https://camo.githubusercontent.com/87d7034892fd41dc88f3606bb44b853f87cd2c51/68747470733a2f2f7265666163746f72696e6775692e6e7963332e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f7461696c77696e642d6c6f676f2e737667" />][website]
+[<img align="left" alt="Tailwind" width="40px" src="https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/583fc66e370973324b281898abe1753d" />][website]
 
 <br />
 <br />
