@@ -43,8 +43,7 @@
 
 [<img align="left" alt="Tailwind" width="40px" src="https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/583fc66e370973324b281898abe1753d" />][website]
 
-[<img align="left" alt="Gatsby" width="40px" src="https://avatars3.githubusercontent.com/u/12551863?s=400&v=4
-" />][website]
+[<img align="left" alt="Gatsby" width="40px" src="https://avatars3.githubusercontent.com/u/12551863?s=400&v=4" />][website]
 
 <br />
 <br />
