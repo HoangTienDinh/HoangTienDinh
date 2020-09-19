@@ -1,7 +1,7 @@
 ### Hi there, I'm Hoang (Ho-ang) 👋
 
 ## I'm a Full Stack Developer, Photographer, Outdoor Enthusiast, and a Baker!
-- 🔭 I’m currently working on a [React/Firebase Tutorial](https://github.com/HoangTienDinh/google-keep-react-firebase)!
+- 🔭 I’m currently working on a [Portfolio Site](https://github.com/HoangTienDinh/portfolio-v2), built with modularity in mind for users to template!
 - 🌱 I’m currently working with React, Typescript, Google Cloud Platform, and Firebase! 
 - 👯 I’m looking to collaborate with other developers (open source/hackathons)!
 
