@@ -46,6 +46,7 @@
 
 [<img align="left" alt="Gatsby" width="40px" src="https://avatars3.githubusercontent.com/u/12551863?s=400&v=4" />][website]
 
+[<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][website]
 <br />
 <br />
 <br />
