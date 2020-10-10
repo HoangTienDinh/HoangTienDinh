@@ -5,7 +5,7 @@
 - 📖 Studying Java to help mentor highschool students at [Game of Apps](http://gameofapps.org/).
 - 🌱 I’m currently working with React, Material-UI, Google Cloud Platform, and Firebase! 
 - 👯 I’m looking to collaborate with other developers (open source/hackathons)!
-
+- 🌎 Love to work on projects with travel, photography, environmental and social impact! If you need extra hands feel free to reach out!
 ---
 
 ### Languages and Tools:
