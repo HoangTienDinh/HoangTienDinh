@@ -8,6 +8,5 @@
 ---
 
 ### Let's Connect:
-
-[instagram]: https://www.instagram.com/hohohoang/
-[linkedin]: https://www.linkedin.com/in/hoangdinh90/
+[LinkedIn /hoangdinh90](https://www.linkedin.com/in/hoangdinh90/)
+[Instagram @hohohoang](https://www.instagram.com/hohohoang/)
